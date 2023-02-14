@@ -21,8 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://kenqrcode.netlify.app/)
 
 ## My process
 I started with planning how to structure the page with HTML5 before styling with CSS.
@@ -43,9 +42,9 @@ I want to focus more on how to make images more responsive.
 
 ## Author
 
-- Website - [Kenneth Obeng](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Kenneth Obeng
+- Frontend Mentor - [@obengkenneth](https://www.frontendmentor.io/profile/obengkenneth)
+- Twitter - [@wonder_kenneth](https://twitter.com/wonder_kenneth)
 
 
 
